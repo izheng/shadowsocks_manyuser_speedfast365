@@ -65,6 +65,7 @@ supervisorctl start<br />
 supervisorctl reload<br />
 <br />
 <br />
+init 6
 </p>
 <p>
 	<br />
