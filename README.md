@@ -1,3 +1,5 @@
+系统要求：建议 Debian 8 （Aliyun、Vultr、Linode全部没有问题）
+
 <p>
 	mkdir /project<br />
 cd /project<br />
