@@ -48,9 +48,9 @@ startsecs=3<br />
 <br />
 在文件结尾处添加以下3行内容<br />
 <br />
-ulimit -n 51200<br />
-ulimit -Sn 4096<br />
-ulimit -Hn 8192<br />
+ulimit -n 512000<br />
+ulimit -Sn 40960<br />
+ulimit -Hn 81920<br />
 <br />
 ==============<br />
 <br />
